@@ -1,7 +1,7 @@
 
 # GraphMatch-AI: End-to-End Pipeline (README)
 
-This README documents the full pipeline I used for the dissertation project "GraphMatch-AI (Skill-Graph Resume–Job Matching with Bias Audit)". It covers Stage 1 to Stage 4 scripts, the surrogate SHAP explainer, and the two Colab pipelines I attached: `Final_pipeline_colab_1.py` and `Final_pipeline_colab_2.py`.
+This README documents the full pipeline I used for the dissertation project "GraphMatch-AI (Skill-Graph Resume-Job Matching with Bias Audit)". It covers Stage 1 to Stage 4 scripts, the surrogate SHAP explainer, and the two Colab pipelines I attached: `Final_pipeline_colab_1.py` and `Final_pipeline_colab_2.py`.
 
 The pipeline is designed to be reproducible on Google Colab and locally on Windows (PowerShell examples provided). All file names are ASCII only.
 
